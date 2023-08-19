@@ -1,0 +1,21 @@
+{
+  "name": "brokenmoon",
+  "displayName": "Broken Moon",
+  "description": "",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.81.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Broken Moon",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Broken Moon-color-theme.json"
+      }
+    ]
+  }
+}
