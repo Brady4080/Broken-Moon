@@ -1,10 +1,22 @@
 {
 	"name": "Broken Moon",
 	"colors": {
-		"editor.background": "#263238",
-		"editor.foreground": "#eeffff",
-		"activityBarBadge.background": "#007acc",
-		"sideBarTitle.foreground": "#bbbbbb"
+		"editor.background": "#111111",
+		"editor.foreground": "#ffffff",
+		"activityBarBadge.background": "#1900ff",
+		"sideBarTitle.foreground": "#ffffff",
+		"sideBar.background": "#000000",
+		"sideBarSectionHeader.border": "#525252",
+		"sideBar.border": "#525252",
+		"activityBar.background": "#111111",
+		"terminal.background": "#000000",
+		"terminal.foreground": "#ffffff",
+		"titleBar.activeBackground": "#111111",
+		"panel.background": "#000000",
+		"panelTitle.activeBorder": "#1900ff",
+		"sideBarSectionHeader.background": "#000000",
+		"tab.inactiveBackground": "#000000",
+		"editorGroupHeader.tabsBackground": "#000000"
 	},
 	"tokenColors": [
 		{
@@ -15,7 +27,7 @@
 			],
 			"settings": {
 				"fontStyle": "italic",
-				"foreground": "#546E7A"
+				"foreground": "#AAAAAA"
 			}
 		},
 		{
