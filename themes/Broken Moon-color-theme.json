@@ -19,7 +19,10 @@
 		"editorGroupHeader.tabsBackground": "#000000",
 		"editorBracketHighlight.foreground1": "#ffcc66",
 		"editorBracketHighlight.foreground2": "#b85b54",
-		"editorBracketHighlight.foreground3": "#a7a6a6"
+		"editorBracketHighlight.foreground3": "#a7a6a6",
+		"statusBar.foreground": "#ffffff",
+		"statusBar.background": "#111111",
+		"statusBar.border": "#525252",
 	},
 	"tokenColors": [
 		{
