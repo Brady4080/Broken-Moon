@@ -1,10 +1,16 @@
 {
   "name": "brokenmoon",
   "displayName": "Broken Moon",
+  "publisher": "BradyPhillips",
   "description": "",
-  "version": "0.0.1",
+  "version": "0.0.2",
+  "icon": "images/icon.png",
   "engines": {
     "vscode": "^1.81.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Brady4080/Broken-Moon"
   },
   "categories": [
     "Themes"
