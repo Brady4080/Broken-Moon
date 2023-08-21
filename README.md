@@ -1,7 +1,7 @@
 # Broken Moon Theme 
 A Dark Mode Theme for Visual Studio Code
 
-[Broken Moon](https://github.com/Brady4080/Broken-Moon/) is a meticulously crafted dark theme designed to elevate your development experience across various platforms. With its intuitive design, soothing color palette, and meticulous attention to detail, Broken Moon transforms your coding environment into a visually pleasing and efficient workspace.
+[Broken Moon](https://github.com/Brady4080/Broken-Moon/) is a meticulously crafted dark theme designed to elevate your development experience. With its intuitive design, soothing color palette, and meticulous attention to detail, Broken Moon transforms your coding environment into a visually pleasing and efficient workspace.
 
 ## Colors Used
 
