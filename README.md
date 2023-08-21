@@ -8,20 +8,34 @@ A Dark Mode Theme for Visual Studio Code
 | Usage           | Hex Code                                                           |
 | --------------- | ------------------------------------------------------------------ |
 | Background      | ![#111111](https://placehold.it/15/111111/ffffff?text=+) `#111111` |
-| Comment         | ![#777c85](https://placehold.it/15/777c85/000000?text=+) `#777c85` |
-| Foreground      | ![#fca369](https://placehold.it/15/fca369/000000?text=+) `#fca369` |
+| Comment         | ![#787d88](https://placehold.it/15/787d88/000000?text=+) `#787d88` |
+| Foreground      | ![#ffffff](https://placehold.it/15/ffffff/000000?text=+) `#ffffff` |
 | Function        | ![#ffffff](https://placehold.it/15/ffffff/000000?text=+) `#ffffff` |
-| Variable        | ![#fca369](https://placehold.it/15/fca369/000000?text=+) `#fca369` |
-| Number          | ![#fca369](https://placehold.it/15/fca369/000000?text=+) `#fca369` |
+| Variable        | ![#f8a56e](https://placehold.it/15/f8a56e/000000?text=+) `#f8a56e` |
+| Number          | ![#f8a56e](https://placehold.it/15/f8a56e/000000?text=+) `#f8a56e` |
 | Attribute       | ![#f7e392](https://placehold.it/15/f7e392/000000?text=+) `#f7e392` |
 | Keyword         | ![#f7e392](https://placehold.it/15/f7e392/000000?text=+) `#f7e392` |
 | String          | ![#8cb8f1](https://placehold.it/15/8cb8f1/000000?text=+) `#8cb8f1` |
 | Class/Tag       | ![#6ab0f3](https://placehold.it/15/6ab0f3/000000?text=+) `#6ab0f3` |
 | Support         | ![#1ABC9C](https://placehold.it/15/1ABC9C/000000?text=+) `#1ABC9C` |
-| Operator        | ![#ac8d58](https://placehold.it/15/ac8d58/000000?text=+) `#ac8d58` |
+| Operator        | ![#af925e](https://placehold.it/15/af925e/000000?text=+) `#af925e` |
 
 ## Screenshots
 
 ### Demo Picture
 
 ![Broken Moon Demo Picture](images/demo_picture.png)
+
+## Acknowledgements
+
+- Inspired by [Tomorrow Night Eighties](https://github.com/chriskempson/tomorrow-theme).
+- Inspired by [Halcyon](https://halcyon-theme.netlify.app/).
+- Inspired by [New Moon](https://github.com/taniarascia/new-moon).
+
+## Author
+
+- [Brady Phillips](https://brady4080.github.io/)
+
+## License
+
+This project is open source and available under the [MIT License](LICENSE).

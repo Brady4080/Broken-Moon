@@ -76,21 +76,21 @@
 		},
 		{
 		  "settings": {
-			"foreground": "#777c85"
+			"foreground": "#787d88"
 		  },
 		  "name": "Comment",
 		  "scope": "comment, punctuation.definition.comment, punctuation.separator.key-value, punctuation.separator, meta.template.expression.js, punctuation.definition.template-expression.begin.js, punctuation.definition.template-expression.end.js, markup.underline.link.markdown, punctuation.definition.metadata.markdown"
 		},
 		{
 		  "settings": {
-			"foreground": "#fca369"
+			"foreground": "#f8a56e"
 		  },
 		  "name": "Variable",
 		  "scope": "punctuation.definition.variable, variable, variable.language.this.php, markup.deleted, markup.deleted.git_gutter, invalid.illegal, string.unquoted.tag-string.nunjucks"
 		},
 		{
 		  "settings": {
-			"foreground": "#fca369"
+			"foreground": "#f8a56e"
 		  },
 		  "name": "Number",
 		  "scope": "constant.numeric, keyword.other.unit, markup.quote"
@@ -104,7 +104,7 @@
 		},
 		{
 		  "settings": {
-			"foreground": "#ac8d58"
+			"foreground": "#af925e"
 		  },
 		  "name": "Operator",
 		  "scope": "keyword.operator, constant.character.escape, constant.character.escape.json, entity.other.attribute-name.pseudo-element.css, entity.other.attribute-name.pseudo-class.css, keyword.operator, punctuation.accessor.js, punctuation.definition.block.tag.jsdoc, storage.type.class.jsdoc"
